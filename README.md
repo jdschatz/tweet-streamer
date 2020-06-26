@@ -32,7 +32,7 @@ user wish to send another question. If not, the program can be safely terminated
 ## How to use:
 
 Unfortunately, tweet-streamer requires secret api keys from Twitter, WolframAlpha, and IBM in order 
-to run correctly. Such keys can be obtained by creating developer accounts at each of these organization's
+to run correctly. Such keys can be obtained by creating developer accounts at each of these organizations'
 websites. Once obtained, place them like I did in the sample_SecretKeys.py file.
 
 I created and ran this program in Ubuntu on my RaspberryPi, so the instructions are tailed towards
@@ -49,12 +49,14 @@ pip3 install --user python-vlc
 
 pip3 install --user wolframalpha api
 
-This program requires that the user has VLC Media Player installed, because that is what the 
+This program requires that the user has VLC Media Player installed because that is what the 
 text-to-speech uses for its audio.
 
 To run the file, make sure you are in the directory holding the file and type:
 
 python3 tweet-streamer.py
+
+It's at this point that tweet-streamer is listening to twitter and you can send your question.
 
 ## Screenshots
 
