@@ -62,7 +62,7 @@ These are two screenshots of the output while running the program. Obviously, it
 demonstrate the text-to-speech through a screenshot, however every step of the program is printed
 to the console, so it should give you a good idea of the entire process.
 
-![Screenshot](sample_output1.jpg)
+![Screenshot](sample_output1.JPG)
 
-![Screenshot](sample_output2.jpg)
+![Screenshot](sample_output2.JPG)
                                                                                                
