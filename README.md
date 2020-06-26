@@ -54,7 +54,7 @@ text-to-speech uses for its audio.
 
 To run the file, make sure you are in the directory holding the file and type:
 
-python3 listener.py
+python3 tweet-streamer.py
 
 ## Screenshots
 
@@ -62,5 +62,7 @@ These are two screenshots of the output while running the program. Obviously, it
 demonstrate the text-to-speech through a screenshot, however every step of the program is printed
 to the console, so it should give you a good idea of the entire process.
 
+![Alt text](/sample_output1.jpg?raw=true "Sample output 1")
 
+![Alt text](/sample_output2.jpg?raw=true "Sample output 2")
                                                                                                
