@@ -62,7 +62,7 @@ These are two screenshots of the output while running the program. Obviously, it
 demonstrate the text-to-speech through a screenshot, however every step of the program is printed
 to the console, so it should give you a good idea of the entire process.
 
-![Alt text](https://github.com/jdschatz/tweet-streamer/blob/master/sample_output1.jpg?raw=true "Sample output 1")
+![Alt text](/jdschatz/tweet-streamer/blob/master/sample_output1.jpg?raw=true "Sample output 1")
 
-![Alt text](https://github.com/jdschatz/tweet-streamer/blob/master/sample_output2.jpg?raw=true "Sample output 2")
+![Alt text](/jdschatz/tweet-streamer/blob/master/sample_output2.jpg?raw=true "Sample output 2")
                                                                                                
